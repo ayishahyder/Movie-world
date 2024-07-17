@@ -1,6 +1,6 @@
 {
-  "homepage":"https://ayishahyder.github.io/Movie-world/",
-  "name": "reactmoon",
+  "homepage":"https://ayishahyder.github.io/Movie-world",
+  "name": "Movie-world",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
