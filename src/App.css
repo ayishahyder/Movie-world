@@ -208,6 +208,28 @@ h1 {
   .search img {
     width: 20px;
     height: 20px;
+<<<<<<< HEAD
+=======
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .app {
+    padding: 4rem 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .container {
+    margin-top: 2rem;
+  }
+
+  .movie {
+    width: "100%";
+    margin: 1rem;
+>>>>>>> f2a7ab29ac74eb639f5e6fb9589b53a8426e753b
   }
 }
 
